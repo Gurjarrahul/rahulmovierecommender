@@ -1,5 +1,5 @@
 # rahulmovierecommender
-I create this website using python on jupyter notebook  and to visit click here https://rahulmovierecommander.herokuapp.com/
+I create this website using python on jupyter notebook  .
 
 ## Data Refroming to solve our perpuse**
 1.Insatll all the modulas which have used in the **Movie_data_Reformer.ipynb** 
